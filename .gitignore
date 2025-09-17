@@ -1,0 +1,45 @@
+# Diretórios e arquivos Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Ambientes virtuais
+env/
+venv/
+ENV/
+.VENV/
+
+# Arquivos de log e temporários
+*.log
+*.tmp
+*.swp
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de execução
+*.exe
+*.out
+*.app
+
+# Arquivos de mídia gerados
+*.wav
+*.mp3
+*.mp4
+*.avi
+*.png
+*.jpg
+
+# Arquivos de build
+build/
+dist/
+*.egg-info/
