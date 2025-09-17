@@ -1,4 +1,5 @@
 🧩 Labirinto — Jogo em Python com Pygame
+
 Bem-vindo ao Labirinto, um jogo 2D desenvolvido com Python e Pygame onde o jogador deve atravessar uma série de fases desafiadoras para alcançar a saída. Cada fase aumenta gradualmente em dificuldade, exigindo precisão e estratégia para vencer.
 
 🎮 Funcionalidades
